@@ -1,0 +1,2 @@
+id,file_name,speaker_code,age_range,gender,context,recording_date,language,has_transcript
+1,example_001.wav,S01,40-50,M,story,2026-03-01,Qashqai,no2,qashqai_001.mp4,S02,50-60,M,spoken_sentence,2026-03-01,Qashqai,yes
